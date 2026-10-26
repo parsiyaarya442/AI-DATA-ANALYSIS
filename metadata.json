@@ -1,0 +1,6 @@
+{
+  "name": "DataGenius AI - SQL & Power BI Dashboard Studio",
+  "description": "Upload CSV/Excel or use sample data, type a prompt, and instantly generate SQL queries, Power BI DAX formulas, interactive charts, and business insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
